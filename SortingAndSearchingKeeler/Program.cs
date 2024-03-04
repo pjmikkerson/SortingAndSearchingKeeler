@@ -16,16 +16,7 @@ namespace SortingAndSearchingKeeler
             {
                 randomArray[i] = rand.Next(0, arraySize);
             }
-            //for (int i = 0; i < randomArray.Length; i++)
-            //{
-            //    Console.Write(randomArray[i] + ",");
-            //}
-            //Console.WriteLine();
-            //sw.Start();
-            //LinearSearch(randomArray, arraySize - 1);
-            //sw.Stop();
-            //Console.WriteLine("Linear searchtime");
-            //Console.WriteLine(sw.Elapsed);
+            
 
 
 
